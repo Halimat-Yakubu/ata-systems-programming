@@ -1,5 +1,5 @@
 #!/bin/bash
-
+chmod +x ./0-output_redirect.sh
 # 1. Print "Hello, World!" to stdout
 echo "Hello, World!"
 
